@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <APIProxy revision="1" name="forecastweatherapi">
     <ConfigurationVersion minorVersion="0" majorVersion="4"/>
-    <CreatedBy>Mujahed Sebai 1234</CreatedBy>
+    <CreatedBy>Mujahed Sebai</CreatedBy>
     <Description>Recommended Forecast Weather API</Description>
-    <DisplayName>Forecast Weather API</DisplayName>
+    <DisplayName>Forecast Weather API add</DisplayName>
 </APIProxy>
